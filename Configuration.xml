@@ -2134,7 +2134,6 @@
 			<Report>СогласияНаОбработкуПерсональныхДанныхДействующие</Report>
 			<Report>СогласияНаОбработкуПерсональныхДанныхИстекающие</Report>
 			<Report>УниверсальныйОтчет</Report>
-			<Report>Отчет1</Report>
 			<DataProcessor>_ДемоВыборОбъектовМетаданных</DataProcessor>
 			<DataProcessor>_ДемоВыводСообщенийПользователю</DataProcessor>
 			<DataProcessor>_ДемоДлительнаяОперация</DataProcessor>
