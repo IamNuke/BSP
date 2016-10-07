@@ -10,7 +10,7 @@
 		<Autofill>false</Autofill>
 	</AutoCommandBar>
 	<Events>
-		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+		<Event name="OnOpen">ПриОткрытии</Event>
 	</Events>
 	<ChildItems>
 		<InputField name="Реквизит1" id="1">
