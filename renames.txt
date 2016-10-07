@@ -7199,6 +7199,9 @@ Reports\ОбъемНенужныхФайлов\Ext\Help\ru.html-->Reports\Объ
 Reports\ОбъемНенужныхФайлов\Templates\ОсновнаяСхемаКомпоновкиДанных.xml-->Reports\ОбъемНенужныхФайлов\Templates\ОсновнаяСхемаКомпоновкиДанных.xml
 Reports\ОбъемНенужныхФайлов\Templates\ОсновнаяСхемаКомпоновкиДанных\Ext\Template.xml-->Reports\ОбъемНенужныхФайлов\Templates\ОсновнаяСхемаКомпоновкиДанных\Ext\Template.xml
 Reports\Отчет1\Ext\ObjectModule.bsl-->Reports\Отчет1\Ext\ObjectModule.bsl
+Reports\Отчет1\Forms\ФормаОтчета.xml-->Reports\Отчет1\Forms\ФормаОтчета.xml
+Reports\Отчет1\Forms\ФормаОтчета\Ext\Form.xml-->Reports\Отчет1\Forms\ФормаОтчета\Ext\Form.xml
+Reports\Отчет1\Forms\ФормаОтчета\Ext\Form\Module.bsl-->Reports\Отчет1\Forms\ФормаОтчета\Ext\Form\Module.bsl
 Reports\ПраваДоступа\Ext\Help.xml-->Reports\ПраваДоступа\Ext\Help.xml
 Reports\ПраваДоступа\Ext\ManagerModule.bsl-->Reports\ПраваДоступа\Ext\ManagerModule.bsl
 Reports\ПраваДоступа\Ext\Help\ru.html-->Reports\ПраваДоступа\Ext\Help\ru.html
